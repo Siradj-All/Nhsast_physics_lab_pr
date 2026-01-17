@@ -1,3 +1,4 @@
 # Nhsast_physics_lab_pr
 Here you can find the physics laboratory sheets for first and second year.
-the secanned files are temporary until we request the pdf version.
+
+the scanned files are temporary until we request the pdf version.
